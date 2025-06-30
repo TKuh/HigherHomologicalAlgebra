@@ -7,6 +7,8 @@
 #! called the stable category of $\CC$ by projectives. Let us illustrate this for the category of finitely presented $\mathbb{Z}$-modules.
 
 #! @Example
+LoadPackage( "AdditiveClosuresForCAP" );
+#! true
 LoadPackage( "FreydCategoriesForCAP" );
 #! true
 LoadPackage( "StableCategories" );

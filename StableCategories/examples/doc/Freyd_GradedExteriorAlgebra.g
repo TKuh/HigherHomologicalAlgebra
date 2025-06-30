@@ -1,5 +1,6 @@
 #! @Chunk freyd_categories_graded_exterior_algebra
 
+LoadPackage( "AdditiveClosuresForCAP" );
 LoadPackage( "FreydCategoriesForCAP" );
 LoadPackage( "StableCategories" );
 LoadPackage( "ModulePresentations" );

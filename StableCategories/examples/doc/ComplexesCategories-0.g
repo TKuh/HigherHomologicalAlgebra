@@ -61,6 +61,7 @@
 #! @Example
 LoadPackage( "StableCategories" );;
 LoadPackage( "FunctorCategories" );;
+LoadPackage( "AdditiveClosuresForCAP" );;
 LoadPackage( "FreydCategories" );;
 vertices := [ "A_0", "A_1", "A_2", "B_0", "B_1", "B_2" ];;
 sources := [ 1, 2, 4, 5, 2, 3, 1, 2, 3, 1, 2, 3 ];;

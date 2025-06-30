@@ -1,5 +1,5 @@
 
-
+LoadPackage( "AdditiveClosuresForCAP" );
 LoadPackage( "FreydCategoriesForCAP" );
 LoadPackage( "GradedModulePresent" );
 LoadPackage( "DerivedC" );

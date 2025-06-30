@@ -11,6 +11,8 @@ gap> LoadPackage( "IO_ForHomalg", false );
 true
 gap> LoadPackage( "FinSetsForCAP", false );
 true
+gap> LoadPackage( "AdditiveClosuresForCAP", false );
+true
 gap> LoadPackage( "FreydCategoriesForCAP", false );
 true
 gap> LoadPackage( "Algebroids", false );
@@ -25,6 +27,8 @@ gap> SetInfoLevel( InfoPackageLoading, PACKAGE_INFO );;
 gap> LoadPackage( "IO_ForHomalg" );
 true
 gap> LoadPackage( "FinSetsForCAP" );
+true
+gap> LoadPackage( "AdditiveClosuresForCAP" );
 true
 gap> LoadPackage( "FreydCategoriesForCAP" );
 true

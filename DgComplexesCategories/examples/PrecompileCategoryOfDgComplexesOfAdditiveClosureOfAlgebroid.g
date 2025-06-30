@@ -7,6 +7,9 @@
 LoadPackage( "Algebroids", false );
 #! true
 
+LoadPackage( "AdditiveClosuresForCAP", false );
+#! true
+
 LoadPackage( "FreydCategoriesForCAP", false );
 #! true
 
